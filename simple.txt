@@ -1,1 +1,2 @@
-Hello conflict testing
+Hello conflict testing.
+1st Conflict.
