@@ -8,7 +8,7 @@ This example is to show different parts of the Git repository and various comman
 
 ##Purpose
 
-As stated above, the main purpose is to provide simple examples for Git training demos. This line is added to test Rebasing.
+As stated above, the main purpose is to provide simple examples for Git training demos. This line is added to test Rebasing. Some more changes.
 
 ##Deployment
 
