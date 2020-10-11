@@ -2,3 +2,4 @@ Hello conflict testing.
 1st Conflict.
 Testing Rebasing conflict.
 Testing Rebasing conflict again.
+Branch rebasing.
