@@ -1,10 +1,7 @@
 Hello conflict testing.
 1st Conflict.
 Testing Rebasing conflict.
-Testing Rebasing conflict again.
 Branch rebasing.
-<<<<<<< HEAD
 Another testing in Remote git hub.
-=======
 Pull with rebase testing.
->>>>>>> e7df951...  local: updating simple file
+Testing with Pull rebase.
