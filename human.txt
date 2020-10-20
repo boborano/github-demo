@@ -2,4 +2,4 @@ Hello we are humans
 Some changes that needs to be modified.
 This line is added for testing rebasing.
 Testing remote file
-Testing Git stash
+Testing Git stash and pop
